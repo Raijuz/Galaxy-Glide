@@ -3,7 +3,6 @@
 
 #include "Core.hpp"
 #include <string>
-// add comment for demo
 class LTexture
 {
 public:
