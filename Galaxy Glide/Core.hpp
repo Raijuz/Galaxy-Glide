@@ -9,7 +9,6 @@ using namespace std;
 class SpaceShip;
 class Fire;
 class Core
-//snmanf basjbfk
 {
 public:
     Core();
