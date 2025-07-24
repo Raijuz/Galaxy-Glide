@@ -1,6 +1,5 @@
 #ifndef CORE_H
 #define CORE_H
-// add comment a
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
