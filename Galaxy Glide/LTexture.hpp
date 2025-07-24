@@ -1,10 +1,11 @@
 #ifndef LTEXTURE_H
 #define LTEXTURE_H
-
+//hdjas
 #include "Core.hpp"
 #include <string>
 class LTexture
 {
+
 public:
     LTexture();
 
