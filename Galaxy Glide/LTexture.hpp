@@ -2,6 +2,7 @@
 #define LTEXTURE_H
 #include "Core.hpp"
 #include <string>
+// abcxyz
 class LTexture
 {
 public:
