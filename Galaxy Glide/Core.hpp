@@ -5,7 +5,6 @@
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_mixer.h>
 #include <vector>
-// i hope it last test again
 using namespace std;
 
 class SpaceShip;
