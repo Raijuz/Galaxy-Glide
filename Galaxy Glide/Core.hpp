@@ -6,7 +6,7 @@
 #include <SDL2/SDL_mixer.h>
 #include <vector>
 using namespace std;
-
+// add comment b
 class SpaceShip;
 class Fire;
 class Core
