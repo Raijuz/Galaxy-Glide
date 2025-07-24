@@ -6,7 +6,6 @@
 #include <SDL2/SDL_mixer.h>
 #include <vector>
 using namespace std;
-// commekjadbkjasnd
 class SpaceShip;
 class Fire;
 class Core
