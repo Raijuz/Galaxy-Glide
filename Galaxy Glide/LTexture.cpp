@@ -6,7 +6,7 @@ LTexture::LTexture()
     mWidth = 0;
     mHeight = 0;
 }
-
+//cmt
 LTexture::~LTexture()
 {
     free();
