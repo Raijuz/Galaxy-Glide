@@ -4,7 +4,6 @@
 #include <string>
 class LTexture
 {
-//hbhbhb
 public:
     LTexture();
 
