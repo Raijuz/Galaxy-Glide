@@ -5,7 +5,6 @@
 #include <cmath>
 #include "SpaceShip.hpp"
 #include "Fire.hpp"
-
 SDL_Renderer* Core::gRenderer = nullptr;
 SDL_Window* Core::gWindow = nullptr;
 TTF_Font* Core::gFont = nullptr;
