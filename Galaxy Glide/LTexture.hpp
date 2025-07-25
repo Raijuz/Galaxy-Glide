@@ -1,9 +1,7 @@
 #ifndef LTEXTURE_H
 #define LTEXTURE_H
-
 #include "Core.hpp"
 #include <string>
-// add demo comment
 class LTexture
 {
 public:
