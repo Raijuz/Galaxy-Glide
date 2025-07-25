@@ -2,7 +2,7 @@
 #define LTEXTURE_H
 #include "Core.hpp"
 #include <string>
-class LTexture
+//bnm
 {
 public:
     LTexture();
