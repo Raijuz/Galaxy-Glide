@@ -2,7 +2,7 @@
 #define LTEXTURE_H
 #include "Core.hpp"
 #include <string>
-//assasdnasjdndc
+// new comment for demo tools
 class LTexture
 {
 public:
