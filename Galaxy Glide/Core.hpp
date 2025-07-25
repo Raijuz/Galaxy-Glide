@@ -5,6 +5,13 @@
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_mixer.h>
 #include <vector>
+#include <string>
+#include <cmath>
+#include <ctime>
+#include <cstdlib>
+#include <iostream>
+#include <fstream>
+#include <sstream>
 using namespace std;
 class SpaceShip;
 class Fire;
